@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ES.DocumentView.PlugIn.ESPlugin">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAEAAAAAAAAQAAEAAAEBAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlugIn\ESPlugin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ES.DocumentView.PlugIn.ESPlugInCollection">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIEAEAAAAAAAAAACAEABAAAAAAAAAAAAAQAAAAQAAA=</HashCode>
+      <FileName>PlugIn\ESPlugInCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ES.DocumentView.PlugIn.ESPluginManager">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>PlugIn\ESPluginManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ES.DocumentView.ProjectModel.Project" Collapsed="true">
+    <Position X="10.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProjectModel\Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ES.DocumentView.ProjectModel.ProjectTemplate" Collapsed="true">
+    <Position X="11.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAACAA=</HashCode>
+      <FileName>ProjectModel\ProjectTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ES.DocumentView.ProjectModel.Solution" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProjectModel\Solution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ES.DocumentView.ToolWindows.ToolWindow" Collapsed="true">
+    <Position X="10.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ToolWindows\ToolWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
